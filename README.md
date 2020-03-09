@@ -1,5 +1,5 @@
 # hello-world
-Repo for learning Git
+### Repo for learning Git
 
 I'm trying to teach myself `Git` and `Markdown` *at the same time*.
 
